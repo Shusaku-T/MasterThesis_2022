@@ -1,0 +1,81 @@
+\begin{thebibliography}{10}
+
+\bibitem{StandardModel}
+KEKホームページ,
+\newblock https://www.kek.jp/ja/, 2022.
+
+\bibitem{Snowmass}
+\textbf{ILC International Development Team}, A.~Aryshev \emph{et~al.},
+\newblock {The International Linear Collider: Report to Snowmass},
+\newblock (2022), arXiv:2203.07622.
+
+\bibitem{Axion}
+C.~B. Adams \emph{et~al.},
+\newblock {Axion Dark Matter},
+\newblock (2022), arXiv:2203.14923.
+
+\bibitem{Axion1}
+L.~Di~Luzio, M.~Giannotti, E.~Nardi, and L.~Visinelli,
+\newblock {The landscape of QCD axion models},
+\newblock Phys. Rept. {\bf 870}, 1 (2020), arXiv:2003.01100.
+
+\bibitem{PFATest}
+F.~Sefkow, A.~White, K.~Kawagoe, R.~P\"oschl, and J.~Repond,
+\newblock Experimental tests of particle flow calorimetry,
+\newblock Rev. Mod. Phys. {\bf 88}, 015003 (2016).
+
+\bibitem{EBES}
+A.~Ishikawa, Y.~Sakaki, and Y.~Takubo,
+\newblock {Search for axion-like particles with electron and positron beams at
+  the KEK linac},
+\newblock PTEP {\bf 2022}, 113B05 (2022), arXiv:2107.06431.
+
+\bibitem{PDG_Interaction}
+D.~E.~Groom,
+\newblock Particle data group - 34. passage of particles through matter,
+\newblock Phys.2022,083C01  (2022).
+
+\bibitem{HEPDetector}
+W.~R.~Leo,
+\newblock {\em Techniques for Nucluear and Particle Physics Experiments}
+  (Springer-Verlag, 1994).
+
+\bibitem{PDG_Cal}
+M.~Tanabashi,
+\newblock Particle data group - 34. particle detectors at accelerators,
+\newblock Phys.Rev. D98, 030001  (2018 and 2019 update).
+
+\bibitem{FOREST}
+T.~Ishikawa \emph{et~al.},
+\newblock {The FOREST detector for meson photoproduction experiments at ELPH},
+\newblock Nucl. Instrum. Meth. A {\bf 832}, 108 (2016).
+
+\bibitem{PandoraPFA}
+M.~A. Thomson,
+\newblock {Particle Flow Calorimetry and the PandoraPFA Algorithm},
+\newblock Nucl. Instrum. Meth. A {\bf 611}, 25 (2009), arXiv:0907.3577.
+
+\bibitem{GravNet}
+S.~R. Qasim, J.~Kieseler, Y.~Iiyama, and M.~Pierini,
+\newblock {Learning representations of irregular particle-detector geometry
+  with distance-weighted graph networks},
+\newblock Eur. Phys. J. C {\bf 79}, 608 (2019), arXiv:1902.07987.
+
+\bibitem{GravNet_CMS}
+\textbf{CMS Collaboration}, S.~R. Qasim, K.~Long, J.~Kieseler, M.~Pierini, and R.~Nawaz,
+\newblock {Multi-particle reconstruction in the High Granularity Calorimeter
+  using object condensation and graph neural networks},
+\newblock EPJ Web Conf. {\bf 251}, 03072 (2021), arXiv:2106.01832.
+
+\bibitem{GravNet_Object}
+J.~Kieseler,
+\newblock {Object condensation: one-stage grid-free multi-object reconstruction
+  in physics detectors, graph and image data},
+\newblock Eur. Phys. J. C {\bf 80}, 886 (2020), arXiv:2002.03605.
+
+\bibitem{LeadGlass}
+T.Sumiyoshi, et al.
+\newblock Performance of the venus lead-glass calorimeter at tristan,
+\newblock Nucl. Instrum. Meth. A {\bf 271}, 432 (1988).
+
+\end{thebibliography}

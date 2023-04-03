@@ -1,0 +1,55 @@
+\contentsline {chapter}{\numberline {第1章}序論}{10}{chapter.1}%
+\contentsline {section}{\numberline {1.1}標準理論}{10}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Beyond the Standard Modelの探索}{11}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Higgsボソンの精密測定}{12}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}超対称性}{13}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Axion/ALPs}{14}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}新物理探索におけるカロリメータの役割}{15}{section.1.3}%
+\contentsline {section}{\numberline {1.4}ILC計画}{16}{section.1.4}%
+\contentsline {section}{\numberline {1.5}ILC検出器}{18}{section.1.5}%
+\contentsline {section}{\numberline {1.6}EBES実験}{19}{section.1.6}%
+\contentsline {section}{\numberline {1.7}本研究の目的}{19}{section.1.7}%
+\contentsline {section}{\numberline {1.8}本論文の流れ}{20}{section.1.8}%
+\contentsline {chapter}{\numberline {第2章}カロリメトリー技術}{21}{chapter.2}%
+\contentsline {section}{\numberline {2.1}カロリメトリーに関する物理現象}{21}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}荷電粒子と物質の相互作用}{21}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}光子と物質の相互作用}{23}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}制動放射}{26}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}チェレンコフ光}{26}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}電磁シャワーおよびハドロンシャワー}{26}{subsection.2.1.5}%
+\contentsline {section}{\numberline {2.2}カロリメータ技術}{27}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}全吸収型カロリメータ}{28}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}鉛ガラス検出器}{28}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}サンプリング型カロリメータ}{29}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}SiW電磁カロリメータ}{29}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}カロリメトリーにおけるPFAの利用}{32}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}PFA}{32}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}PandoraPFA}{33}{subsection.2.3.2}%
+\contentsline {chapter}{\numberline {第3章}深層学習の概観}{36}{chapter.3}%
+\contentsline {section}{\numberline {3.1}深層学習}{36}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Graph Neural Network}{38}{section.3.2}%
+\contentsline {section}{\numberline {3.3}ニューラルネットワークの実装}{39}{section.3.3}%
+\contentsline {chapter}{\numberline {第4章}グラフニューラルネットワークによるクラスタリング解析}{44}{chapter.4}%
+\contentsline {section}{\numberline {4.1}深層学習アーキテクチャ}{44}{section.4.1}%
+\contentsline {section}{\numberline {4.2}GravNet}{45}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Object Condensation}{46}{section.4.3}%
+\contentsline {section}{\numberline {4.4}ILCの検出器シミュレーションデータを用いたカロリメトリー}{48}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}入力データ}{49}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}ネットワークの評価}{50}{subsection.4.4.2}%
+\contentsline {chapter}{\numberline {第5章}EBES実験におけるバックグラウンド測定}{54}{chapter.5}%
+\contentsline {section}{\numberline {5.1}KEK Linac}{54}{section.5.1}%
+\contentsline {section}{\numberline {5.2}実験セットアップ}{55}{section.5.2}%
+\contentsline {section}{\numberline {5.3}バックグラウンド測定}{56}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}バックグラウンド測定のためのセットアップ}{56}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}結果}{58}{subsection.5.3.2}%
+\contentsline {chapter}{\numberline {第6章}EBES実験のための鉛ガラス検出器性能測定}{64}{chapter.6}%
+\contentsline {section}{\numberline {6.1}KEK PF/AR 測定器開発テストビームライン}{64}{section.6.1}%
+\contentsline {section}{\numberline {6.2}実験セットアップ}{65}{section.6.2}%
+\contentsline {section}{\numberline {6.3}データに対する補正}{67}{section.6.3}%
+\contentsline {section}{\numberline {6.4}エネルギー較正}{69}{section.6.4}%
+\contentsline {section}{\numberline {6.5}エネルギー分解能測定}{72}{section.6.5}%
+\contentsline {section}{\numberline {6.6}HVを変えた際の検出器応答の変化}{77}{section.6.6}%
+\contentsline {chapter}{\numberline {第7章}まとめおよび今後の展望}{81}{chapter.7}%
+\contentsline {section}{\numberline {7.1}まとめ}{81}{section.7.1}%
+\contentsline {section}{\numberline {7.2}今後の展望}{82}{section.7.2}%
+\contentsline {chapter}{参考文献}{85}{chapter*.68}%
